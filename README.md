@@ -58,6 +58,7 @@ From the above analysis, I can concluded that,
 4)Result
 
 From my analysis, i predict that,
+
 -Vegetarian food will be more popular than non vegetarian. As we can see demand for vegetarian dishes is more.
 
 -Requirements for spicy food will be greater than other flavours(sour and bitter).
